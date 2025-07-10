@@ -32,6 +32,7 @@ Installation :
 ## 📂 File Structure
 - `main.py` → Main script
 - `cv.py` -> Convert Format DB
+- `postgre.py` -> PostGre type
 - `list.txt` → List of target WordPress sites (one per line)
 - `result.txt` → Appended output of successful logins
 
