@@ -1,4 +1,4 @@
-# Database Exploit
+# Database Checker
 
 Installation : 
 ------
